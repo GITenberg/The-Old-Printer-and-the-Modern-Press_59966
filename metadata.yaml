@@ -1,5 +1,8 @@
 _repo: The-Old-Printer-and-the-Modern-Press_59966
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59966-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Charles
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38856
     wikipedia: https://en.wikipedia.org/wiki/Charles_Knight_(publisher)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59966#The-Old-Printer-and-the-Modern-Press
 gutenberg_issued: '2019-07-22'
 gutenberg_type: Text
 identifiers:
